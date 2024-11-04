@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Budgeting/static/css/main.1716d61c.css",
+    "main.js": "/Budgeting/static/js/main.94bc988f.js",
+    "static/media/savings-1.png": "/Budgeting/static/media/savings-1.ebd6f683c5d3d4b10d02.png",
+    "static/media/budget-within-high-resolution-logo-transparent.png": "/Budgeting/static/media/budget-within-high-resolution-logo-transparent.d8447504e7d54f92b8e7.png",
+    "static/media/images (1).jpeg": "/Budgeting/static/media/images (1).03e64eb531b61d047fab.jpeg",
+    "index.html": "/Budgeting/index.html",
+    "main.1716d61c.css.map": "/Budgeting/static/css/main.1716d61c.css.map",
+    "main.94bc988f.js.map": "/Budgeting/static/js/main.94bc988f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1716d61c.css",
+    "static/js/main.94bc988f.js"
+  ]
+}
